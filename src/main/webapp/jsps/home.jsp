@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lendi Institute of Engineering & Technology</title>
+    <title>vinay Institute of Engineering & Technology</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Lendi Institute of Engineering & Technology</p>
+    <p>&copy; 2024 vinay Institute of Engineering & Technology</p>
 </footer>
 
 </body>
